@@ -1,5 +1,5 @@
 #Ripe
-![](https://github.com/williamgrosset/Ripe/blob/master/Designs/login.jpg "Ripe")
+![](https://github.com/williamgrosset/Ripe/blob/master/Designs/banner.jpg "Ripe")
 ## Overview
 
 ### Summary
