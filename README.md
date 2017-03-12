@@ -1,5 +1,5 @@
 #Ripe
-![alt-test](https://github.com/williamgrosset/Ripe/tree/master/Designs/login.jpg "Ripe")
+![](https://github.com/williamgrosset/Ripe/blob/master/Designs/login.jpg "Ripe")
 ## Overview
 
 ### Summary
