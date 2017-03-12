@@ -3,7 +3,7 @@
 ## Overview
 
 ### Summary
-This iOS application was developed within **24 hours** for [HackUVic2017](http://17w.hackuvic.com/). Our team placed 2nd place.
+This iOS application was developed within **24 hours** for [HackUVic2017](http://17w.hackuvic.com/). Our team placed **2nd place.**
 
 Ripe is a smart, all-in-one POS solution for small grocers. The Ripe iOS app combines an intuitive item select menu with neural net powered image recognition.
 
