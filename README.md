@@ -32,16 +32,14 @@ We used a neural network for the image recognition portion of the app.
 * **SelectionPageViewController**: Controls screen interaction between ProductListNavigation and CartTableNavigation
 
 ## What's Next
-* Train neural net on large range of fruits, vegetables, etc
+* Train neural net on large range of fruits, vegetables, etc.
 * Add support for barcode scanning via camera
 * Provide Square integration after tapping 'checkout'
 * Add support for Bluetooth scale
 
 ## Contributors & Past Experience
-Ali Siddiqui: Moderate experience with Swift 3.0 and Machine Learning.
-
-Matthew Paletta: Moderate experience with Swift 3.0 and Machine Learning.
-
-William Grosset: Minimal experience with Swift 2.0.
-
-Jordan McKinney: Some experience with Machine Learning.
+All members are currently 3rd year Computer Science students attending University of Victoria.
+* **Ali Siddiqui**: Moderate experience with Swift 3.0 and Machine Learning.
+* **Matthew Paletta**: Moderate experience with Swift 3.0 and Machine Learning.
+* **William Grosset**: Minimal experience with Swift 2.0.
+* **Jordan McKinney**: Moderate experience with Machine Learning.
