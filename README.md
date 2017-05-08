@@ -3,7 +3,7 @@
 ## Overview
 
 ### Summary
-This iOS application was developed within **24 hours** for [Major League Hacking 2017](http://17w.hackuvic.com/) and achieved **2nd place.**
+This iOS application was developed within **~21 hours** for [Major League Hacking 2017](http://17w.hackuvic.com/) and achieved **2nd place.**
 
 Ripe is a smart, all-in-one POS solution for medium-sized grocers. The Ripe iOS app combines an intuitive item select menu with neural net powered image recognition.
 
@@ -15,7 +15,7 @@ Ripe allows a cashier to quickly build the customers order and take payment enti
 ## Technologies
 
 ### Neural Net
-We used a neural network for the image recognition portion of the app. 
+Used our own trained neural network running on [Metal](https://developer.apple.com/metal/) for the image recognition portion of the iOS application. 
 
 ### Swift Classes
 * **LoginViewController**: Handles user authentication and landing page for app
@@ -33,13 +33,13 @@ We used a neural network for the image recognition portion of the app.
 
 ## What's Next
 * Train neural net on large range of fruits, vegetables, etc.
-* Add support for barcode scanning via camera
-* Provide Square integration after tapping 'checkout'
-* Add support for Bluetooth scale
+* Provide Square integration for payment system during `Checkout` phase
+* Add extended support for grocery item barcode scanning (via camera)
+* Add extended support for weighing specific items (via Bluetooth scale)
 
 ## Contributors & Past Experience
-All members are currently 3rd year Computer Science students attending University of Victoria.
-* **Ali Siddiqui**: Moderate experience with Swift 3.0 and Machine Learning.
-* **Matthew Paletta**: Moderate experience with Swift 3.0 and Machine Learning.
-* **William Grosset**: Minimal experience with Swift 2.0.
+All members are currently 3rd year Computer Science students attending the University of Victoria.
+* **Ali Siddiqui**: Moderate experience with Swift 3.x and Machine Learning.
+* **Matthew Paletta**: Moderate experience with Swift 3.x and Machine Learning.
+* **William Grosset**: Minimal experience with Swift 2.x.
 * **Jordan McKinney**: Moderate experience with Machine Learning.
